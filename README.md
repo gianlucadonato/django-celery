@@ -3,7 +3,7 @@ The app is a smart automatic album creator. It run every 20min and fetch the las
 
 ## Installation
 
-* `$ git clone git@github.com:gianlucadonato/eversnap-project.git`
+* `$ git clone git@github.com:gianlucadonato/eversnap-celery.git`
 * `$ virtualenv venv`
 * `$ source venv/bin/activate`
 * `$ pip install -r requirements.txt`
